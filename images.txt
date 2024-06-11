@@ -1,2 +1,1 @@
-alpine
-cnjamesqin/docker-http-proxy:latest
+centos
