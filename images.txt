@@ -1,3 +1,4 @@
 centos
 mysql
 cnjamesqin/docker-http-proxy
+nriver/trilium-cn
